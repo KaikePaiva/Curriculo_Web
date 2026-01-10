@@ -1,11 +1,11 @@
 .introducao{
-max-width: 1200px;
-padding: 40px 20px;
-margin: 0 auto;
-display: grid;
-grid-template-columns: 4fr 8fr;
-gap: 100px;
-align-items: center;
+    max-width: 1200px;
+    padding: 40px 20px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+    gap: 100px;
+    align-items: center;
 }
 
 .introducao h1{
