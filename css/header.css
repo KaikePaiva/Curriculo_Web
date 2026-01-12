@@ -25,15 +25,15 @@ display: block;
 }
 
 
-@media (max-widht: 800px){
+@media (max-width: 800px){
 .header{
 flex-direction: column;
 gap: 40px;
 padding: 20px;
 }
 
-.header a{
-background-color: #f5f5f5;
+.header-menu a{
+background: #f5f5f5;
 border-radius: 4px;
 }
 
